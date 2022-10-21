@@ -1,9 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
-  <Transactions>
-    <Transaction>2022/10/18 21:44:52.028,=C:\Users\edriano.campana\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2022/10/18 21:46:52.005,R:\Ens Tecnico\DESENVOLVIMENTO DE SISTEMAS\2 Modulo\Desenvolvimento de Sistemas\turmaB_SistemaVenda\SistemaVenda\untPrincipal.dfm=C:\Users\edriano.campana\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
-    <Transaction>2022/10/18 21:46:52.005,R:\Ens Tecnico\DESENVOLVIMENTO DE SISTEMAS\2 Modulo\Desenvolvimento de Sistemas\turmaB_SistemaVenda\SistemaVenda\untPrincipal.pas=C:\Users\edriano.campana\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2022/10/18 21:47:06.567,R:\Ens Tecnico\DESENVOLVIMENTO DE SISTEMAS\2 Modulo\Desenvolvimento de Sistemas\turmaB_SistemaVenda\SistemaVenda\prjVenda.dproj=C:\Users\edriano.campana\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+	<Transactions>
+    <Transaction>2022/10/18 21:44:52.000.028,=C:\Users\edriano.campana\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/18 21:46:52.000.005,R:\Ens Tecnico\DESENVOLVIMENTO DE SISTEMAS\2 Modulo\Desenvolvimento de Sistemas\turmaB_SistemaVenda\SistemaVenda\untPrincipal.pas=C:\Users\edriano.campana\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/18 21:46:52.000.005,R:\Ens Tecnico\DESENVOLVIMENTO DE SISTEMAS\2 Modulo\Desenvolvimento de Sistemas\turmaB_SistemaVenda\SistemaVenda\untPrincipal.dfm=C:\Users\edriano.campana\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/10/18 21:47:06.000.567,R:\Ens Tecnico\DESENVOLVIMENTO DE SISTEMAS\2 Modulo\Desenvolvimento de Sistemas\turmaB_SistemaVenda\SistemaVenda\prjVenda.dproj=C:\Users\edriano.campana\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/10/20 21:15:59.000.288,=C:\Users\edriano.campana\Desktop\versao_2010\SistemaVenda\Unit1.pas</Transaction>
+    <Transaction>2022/10/20 21:18:15.000.476,C:\Users\edriano.campana\Desktop\versao_2010\SistemaVenda\Unit1.dfm=C:\Users\edriano.campana\Desktop\versao_2010\SistemaVenda\untPadrao.dfm</Transaction>
+    <Transaction>2022/10/20 21:18:15.000.476,C:\Users\edriano.campana\Desktop\versao_2010\SistemaVenda\Unit1.pas=C:\Users\edriano.campana\Desktop\versao_2010\SistemaVenda\untPadrao.pas</Transaction>
+    <Transaction>2022/10/20 22:13:33.770,=C:\Users\edriano.campana\Desktop\versao_2010\SistemaVenda\Unit1.pas</Transaction>
+    <Transaction>2022/10/20 22:14:25.696,C:\Users\edriano.campana\Desktop\versao_2010\SistemaVenda\untModulo.dfm=C:\Users\edriano.campana\Desktop\versao_2010\SistemaVenda\Unit1.dfm</Transaction>
+    <Transaction>2022/10/20 22:14:25.696,C:\Users\edriano.campana\Desktop\versao_2010\SistemaVenda\untModulo.pas=C:\Users\edriano.campana\Desktop\versao_2010\SistemaVenda\Unit1.pas</Transaction>
   </Transactions>
 </BorlandProject>

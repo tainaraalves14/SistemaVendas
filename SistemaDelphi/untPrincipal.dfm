@@ -10,6 +10,7 @@ object frmPrincipal: TfrmPrincipal
   Font.Height = -11
   Font.Name = 'Tahoma'
   Font.Style = []
+  FormStyle = fsMDIForm
   Menu = menu
   OldCreateOrder = False
   WindowState = wsMaximized
@@ -30,9 +31,6 @@ object frmPrincipal: TfrmPrincipal
       item
         Width = 50
       end>
-    ExplicitLeft = 720
-    ExplicitTop = 464
-    ExplicitWidth = 0
   end
   object menu: TMainMenu
     Left = 56
